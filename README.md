@@ -48,6 +48,7 @@ This project equips coffee shop owners with data-driven insights, enabling them 
 
 ![Coffee Shop](
 
-![Image] (![BOGO Promotion Analysis for Cilantro Dashboard](https://github.com/karimdiab97/Coffee-Shop-Performance-Analysis-Using-Power-BI-Excel/assets/101432419/3552333f-4558-4ec6-bf61-889e008962b5)
+![Image] (![BOGO Promotion Analysis for Cilantro Dashboard](![BOGO Promotion Analysis for Cilantro Dashboard](https://github.com/karimdiab97/Coffee-Shop-Performance-Analysis-Using-Power-BI-Excel/assets/101432419/d574fe0f-8631-4574-a5b4-914f6b1de1d0)
+)
 )
 
